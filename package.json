@@ -11,10 +11,21 @@
         "resources": {
             "media": [
                 {
-                    "file": "images/appIcon.png",
-                    "menuIcon": true,
-                    "name": "image_app_icon",
-                    "targetPlatforms": null,
+                    "file": "images/pebble_appIcon-bw.png",
+                    "name": "image_appicon_bw",
+                    "targetPlatforms": [
+                        "aplite",
+                        "diorite"
+                    ],
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/pebble_appIcon-color.png",
+                    "name": "image_appicon_color",
+                    "targetPlatforms": [
+                        "basalt",
+                        "chalk"
+                    ],
                     "type": "bitmap"
                 }
             ]
