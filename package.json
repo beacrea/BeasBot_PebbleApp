@@ -11,20 +11,14 @@
         "resources": {
             "media": [
                 {
-                    "file": "images/pebble_appIcon-bw.png",
-                    "name": "image_appicon_bw",
+                    "file": "images/menuIconBW.png",
+                    "menuIcon": true,
+                    "name": "menuiconbw",
                     "targetPlatforms": [
                         "aplite",
-                        "diorite"
-                    ],
-                    "type": "bitmap"
-                },
-                {
-                    "file": "images/pebble_appIcon-color.png",
-                    "name": "image_appicon_color",
-                    "targetPlatforms": [
                         "basalt",
-                        "chalk"
+                        "chalk",
+                        "diorite"
                     ],
                     "type": "bitmap"
                 }
@@ -34,8 +28,7 @@
         "targetPlatforms": [
             "aplite",
             "basalt",
-            "chalk",
-            "diorite"
+            "chalk"
         ],
         "uuid": "03b56831-5cc6-4c3c-959f-64678f4e655e",
         "watchapp": {
