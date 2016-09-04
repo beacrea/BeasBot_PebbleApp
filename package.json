@@ -2,7 +2,7 @@
     "author": "coty@cotybeasley.name",
     "dependencies": {},
     "keywords": [],
-    "name": "BeasBot",
+    "name": "beasbot",
     "pebble": {
         "displayName": "BeasBot",
         "enableMultiJS": true,
