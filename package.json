@@ -11,20 +11,14 @@
         "resources": {
             "media": [
                 {
-                    "file": "images/menuIconBW.png",
                     "menuIcon": true,
-                    "name": "menuiconbw",
-                    "targetPlatforms": [
-                        "aplite",
-                        "basalt",
-                        "chalk",
-                        "diorite"
-                    ],
-                    "type": "bitmap"
+                    "type": "png",
+                    "name": "IMAGE_MENU_ICON",
+                    "file": "images/menuIconBW.png"
                 }
             ]
         },
-        "sdkVersion": "3",
+        "sdkVersion": "4",
         "targetPlatforms": [
             "aplite",
             "basalt",
