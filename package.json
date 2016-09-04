@@ -1,0 +1,27 @@
+{
+    "author": "coty@cotybeasley.name",
+    "dependencies": {},
+    "keywords": [],
+    "name": "beasbot",
+    "pebble": {
+        "displayName": "BeasBot",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk",
+            "diorite"
+        ],
+        "uuid": "03b56831-5cc6-4c3c-959f-64678f4e655e",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
