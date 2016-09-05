@@ -11,20 +11,21 @@
         "resources": {
             "media": [
                 {
+                    "file": "images/menuIconBW.png",
                     "menuIcon": true,
-                    "type": "png",
                     "name": "IMAGE_MENU_ICON",
-                    "file": "images/menuIconBW.png"
+                    "targetPlatforms": null,
+                    "type": "bitmap"
                 }
             ]
         },
-        "sdkVersion": "4",
+        "sdkVersion": "3",
         "targetPlatforms": [
             "aplite",
             "basalt",
             "chalk"
         ],
-        "uuid": "03b56831-5cc6-4c3c-959f-64678f4e655e",
+        "uuid": "5efa6735-3e4f-4d15-b26d-b6a70b7429af",
         "watchapp": {
             "watchface": false
         }
